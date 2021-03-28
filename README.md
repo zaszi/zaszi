@@ -1,4 +1,3 @@
-**IRC:** `zaszi` on [freenode](irc://irc.freenode.net/)
-**PGP:** `0x28612485087F6BBF`
-
-You can find some of my work on my [website](https://zaszi.net/).
+- **Discord:** `Zaszi`
+- **IRC:** `zaszi` on [freenode](irc://irc.freenode.net/)
+- **PGP:** `6F3E B1CD 9C22 7F0B 1533 33B5 2861 2485 087F 6BBF`
