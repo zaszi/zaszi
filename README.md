@@ -1,3 +1,3 @@
 - **Discord:** `Zaszi`
-- **IRC:** `zaszi` on freenode.net
+- **IRC:** `zaszi` on libera.chat
 - **PGP:** `6F3E B1CD 9C22 7F0B 1533 33B5 2861 2485 087F 6BBF`
